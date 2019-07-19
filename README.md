@@ -124,6 +124,8 @@ dependencies {
     ...
 }
 ```
+Una vez añadida deberemos sincronizar el proyecto. _AndroidStudio_ nos avisará de ello y deberemos pulsar sobre el enlace _Sync Now_ que nos aparecerá en la parte superior de la pantalla del editor.
+
 ## Paso 4: Implementación de la clase _MainActivity_
 El último paso es implementar la clase _MainActivity_ donde incluimos el _ArrayList_ de tipo _Vehiculo_ y añadimos sus elementos, creamos el _adapter_ a partir del _ArrayList_, buscamos la lista y le asignamos el _adapter_ y por último le asociamos un _OnClickItemListener_ para saber cuándo se ha pulsado en un elemento de la lista. En él obtenemos el vehículo pulsado y lo
 mostramos por pantalla.
