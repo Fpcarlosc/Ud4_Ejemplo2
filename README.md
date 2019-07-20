@@ -77,7 +77,7 @@ public class Vehiculo {
 ## Paso 3: Creación del adaptador _VehiculoAdapter_
 El siguiente paso es crear el adaptador que le pasará las _Views_ a _ListView_. Éste heredará de la clase ArrayAdapter de tipo Vehiculo y deberá sobreescribir el método _getView_ que será el encargado de devolver la siguiente _View_.
 
-_Vehiculoadapter.java_:
+_VehiculoAdapter.java_:
 ```
 public class VehiculoAdapter extends ArrayAdapter<Vehiculo> {
 
