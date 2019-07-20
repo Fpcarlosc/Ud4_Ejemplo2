@@ -21,10 +21,10 @@ Primero vamos a crear la lista usando _ListView_ en el fichero _activity_main.xm
 
 </ListView>
 ```
-Despúes necesitamos crear otro _layout_ ya que la lista va a contener dos _TextView_, uno para el nombre y otro para indicar dónde
+Después necesitamos crear otro _layout_ ya que la lista va a contener dos _TextView_, uno para el nombre y otro para indicar dónde
 apareció, cada uno con su _id_.
 
-_elemento_lista.xml_:
+_elementos_lista.xml_:
 ```
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
