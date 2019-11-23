@@ -3,7 +3,7 @@ _Ejemplo 2 de la Unidad 4._
 
 Vamos a realizar View Recycling haciendo uso de ListView y ArrayAdapter para mostrar una lista con algunos de los vehículos (coches, naves, etc.) 
 más famosos de películas y series. Se mostrará su nombre y la película o serie en la que apareció.
-Además al pursar el elemento aparecerá un mensaje por pantalla con esos datos.
+Además al pulsar el elemento aparecerá un mensaje por pantalla con esos datos.
 
 Para ello vamos a seguir los siguientes pasos:
 
